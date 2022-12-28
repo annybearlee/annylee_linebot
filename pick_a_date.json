@@ -1,0 +1,34 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "請選擇欲查詢的日期：",
+        "weight": "bold",
+        "size": "md"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "datetimepicker",
+          "label": "📅 選擇日期",
+          "data": "date",
+          "mode": "date"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

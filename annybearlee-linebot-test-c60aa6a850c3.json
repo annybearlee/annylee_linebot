@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "annybearlee-linebot-test",
+  "private_key_id": "c60aa6a850c39629d2d61778f4f7826619290307",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnKN9bYk5tQtIs\n2IV1ol0VJBz59U1aly+sBx1DtPJOiFd0YLGlRCnWLxZVkqLzQI3cJJb9wUz+Aetd\nKutCcWmzMF0kKNnAtEMJz527MhSI3YXkMM+QjHdQzsynokmzVOp2CUkmQLszwiIQ\nZiY+4PC0ma7S7RXdmHfsalBuPOV11RTfygr/gvf1e4NPo6Ms9LlAsYgK+HoU0WAu\n3HorWa0EHUWdZeHVFvP4q+DjnOX60NiosfzCPIBkn/9L2bjsYno5XE5bIEAB3yjy\nNFGGZjCbT0BYMzt1Rmn8I2u+dmh3C+nq4NZkpW2yQq5pyDKR2oMAqoqWD1+iwhCa\n2YK2a5P1AgMBAAECggEAQvpWEMRBn3b0RwLU6u8NNADd2WvoPEGy2M+a8ruokT4B\nKMDrvUgkKU2BufUA9M3raYeBtpiC9I4pVBHz5RITY7ifwXLa2WOBLwew8EZfQv3b\n/bRvHsChuE+8YfjdZg1Cytvqovix6cnCI2cCsRQpbnvbuGlF5x4GA0UQCDO/T2hV\nOgKwRpRen0kvIoh0vqRqQOljo6G9Oc419EbwomBepTe/ejrV9UnbX86qsV4QAlYu\nzUfhiRr+Xq+UOqQiKp5Cb+XB5QqchfQ5vJVPPQJI+f7uFnUAB6+0EPDBTbvlxOia\naex3hJxFgT829oiKHBouN6OjyUCKa/o9FESDCz1g6wKBgQDYrtSc//H8qgXPIWsQ\nAImLc5Ma/5egKWemvJ+TXp6CLktlITUF2l4ZjkvXWOH+ye36e87jsPwFDDKVqOOd\nSUINENUD+IKxLSZculotx1SoFz4zzRYonVkCsSqvdkL4NWHSWcvC8mwK4Z408rHV\nm99Zkw4Wlk09nqW8EHmtvMSUFwKBgQDFfaEfqeWZhaIRFwISO/YvFvwJUEASdmXr\nePwxxSu8s5t2No0/UajGlvJN3wzgpUVg8SJ1Hv4bY/1yqW+ZnAP+SvbjQQpUgz5P\nsC1Hkz4G9K0vkThqFYmvVKJtL1ClYn/zElayMN1yxNHh8PPvBEyhP4oaBKioTSwA\nPzvywCjD0wKBgFmjugFZQNqt28lcodX04vH11h2NL0Tq3B52We21bw2b6UTk//Jz\n7AnWfDmSY6vsDa9aGLTJOvk7mpGfVMp0zAZruDP0UtzJON2Tmkrl83e2Zd04MrqK\nnZAniukbm4jjTJyg2VLExz2ZKMHuxPMBkNyVoXZmp32ebCHpDu148jnxAoGAdwSn\nPbXeMQ9gBHyhOuv4CZkIe3RpqLbB5Y8cLcJuAWMcpblqlmZYGJaPoG50DE6N6UZp\nRbxP16IC9D84ipKDtZToBT0FRLlzrAK4xxHtp7N9S9Vw8j3YpFmVKcgCCim6gnri\n1LCuRKRo+ImF+N3WcLciO1vjaMpZYiy5rCoyZxECgYEAxR4cB2oTvPgOLpxsOsXA\np6kLkKFAfqvWeOXOmV7heB/NRLt0r220xWw/IMnDFUrYkE0TUX1H39tLHmDW2eLX\nw4LEvDUp7FD+3F14ShNuTvmhmlulwL8SBb8F8De1sbCxWpvnB83RdCijy/W7o96r\n02d1rBmnoTpuctywKfgTwfU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "annybearlee-linebot@annybearlee-linebot-test.iam.gserviceaccount.com",
+  "client_id": "114233016344223992085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/annybearlee-linebot%40annybearlee-linebot-test.iam.gserviceaccount.com"
+}

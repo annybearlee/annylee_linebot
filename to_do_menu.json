@@ -1,0 +1,90 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "想查詢哪一天的待辦呢？",
+        "weight": "bold",
+        "size": "lg",
+        "align": "start"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "今天",
+          "text": "today"
+        },
+        "color": "#9596A5"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "明天",
+          "text": "today+1"
+        },
+        "margin": "md"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "2021/12/23",
+          "text": "today+2"
+        },
+        "margin": "md"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "2021/12/24",
+          "text": "today+2"
+        },
+        "margin": "md"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "2021/12/25",
+          "text": "today+2"
+        },
+        "margin": "md"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "其他日期",
+          "text": "today+2"
+        },
+        "margin": "md"
+      }
+    ],
+    "flex": 0
+  }
+}
