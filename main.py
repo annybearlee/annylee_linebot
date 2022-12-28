@@ -13,8 +13,8 @@ import json
 from datetime import timedelta
 # import time
 
-# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/annybearlee/PycharmProjects/test1118/annybearlee-linebot-test-c60aa6a850c3.json"
-WEATHER_KEY="CWB-72EFCFC1-4EF5-4A47-AC7E-8F33110D0F1B"
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "GOOGLE_APPLICATION_CREDENTIALS"
+WEATHER_KEY="WEATHER_KEY"
 
 # WEATHER API
 # WEATHER_KEY = os.environ["WEATHER_KEY"]
@@ -34,8 +34,8 @@ app = Flask(__name__)
 
 
 # LINE 聊天機器人的基本資料
-line_bot_api = LineBotApi('7d1g9wCrKfTEoxYDJ/xBDz1431u5ghkL7jz9Xma3jbvQXyJ6DhYegZc4+xTqVZ66RxWdmcxWVouqk+i35L1XapgE1b0V5oRwiiRFrZSKPHYzYDIjT7cHg0tCcdMtXmSJvjcaNwEFVt3D/D4w+MFxMAdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('a9d95660b8fa434c63c8997e2135c41b')
+line_bot_api = LineBotApi('LineBotApi')
+handler = WebhookHandler('WebhookHandler')
 # LINE_API = os.environ["LINE_API"]
 # line_bot_api = LineBotApi(LINE_API)
 # HANDLER = os.environ["HANDLER"]
