@@ -85,7 +85,7 @@ info = ['天氣狀況','最低溫','最高溫','舒適度','降雨機率']
 # Weather
 order = [0,2,4,3,1]
 def get_weather2(message, weather_data):
-    response = requests.get("https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-72EFCFC1-4EF5-4A47-AC7E-8F33110D0F1B&format=JSON")
+    response = requests.get("WEATHER_API")
     datas = response.json()
     # 氣象局使用的為“臺”
     if "台" in message:
